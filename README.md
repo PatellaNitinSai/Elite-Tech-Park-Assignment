@@ -36,7 +36,7 @@ This project is the backend implementation for the task provided by Elite Tech P
 ## Installation and Setup
 1. Clone the repository:
 
-   git clone https://github.com/muthuhariharan2001/Elite-Tech-Park-Backend-Assessment.git
+   git clone https://github.com/PatellaNitinSai/Elite-Tech-Park-Assignment.git
 
 
 2. Navigate to the Project Directory
@@ -87,15 +87,6 @@ This project is the backend implementation for the task provided by Elite Tech P
 - POST /api/vendor/product - Create Product to the Database in terms of Vendor.
 
 
-**Postman Collection**
-The Postman collection for testing the APIs is attached. You can import it into Postman using the following steps:
-
-Open Postman.
-Click on "Import" in the top left corner.
-Select the .json file provided.
-
-
-(
-    
-Thank you for reading this article. :)
+This is the Drive link for the postman Collection :
+https://drive.google.com/file/d/1TKJURDaXVi18bV75IG7IWmdRHrm_N_85/view?usp=drivesdk 
 
